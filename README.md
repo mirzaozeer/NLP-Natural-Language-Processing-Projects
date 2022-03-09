@@ -9,7 +9,9 @@ CONTENT
 - [Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/Grammar-Spell-Punctation-Corrector-ENG.ipynb)
 
   [1. Grammar Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#1-grammar-corrector)
+  
   [2. Punctuation Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#2-punctuation-corrector)
+  
   [3. Spell Checker](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#3-spell-checker)
 
 [2. Style Former-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#2-style-former-eng-project)
