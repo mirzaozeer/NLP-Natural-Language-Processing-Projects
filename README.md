@@ -5,9 +5,9 @@ CONTENT
 [0. What is NLP ?](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#what-is-nlp-)
 
 [1. Grammar-Spell-Punctation-Corrector-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#1-grammar-spell-punctation-corrector-eng-project)
-- [1. Grammar Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#1-grammar-corrector)
-- [2. Punctuation Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#2-punctuation-corrector)
-- [3. Spell Checker](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#3-spell-checker)
+- [1.1. Grammar Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#1-grammar-corrector)
+- [1.2. Punctuation Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#2-punctuation-corrector)
+- [1.3. Spell Checker](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#3-spell-checker)
 
 [2. Style Former-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#2-style-former-eng-project)
 
@@ -23,18 +23,18 @@ Challenges in natural language processing frequently involve speech recognition,
 
 # 1. Grammar-Spell-Punctation-Corrector-ENG Project
 [Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/Grammar-Spell-Punctation-Corrector-ENG.ipynb)
-### 1. Grammar Corrector
+### 1.1. Grammar Corrector
 ![Resim1](https://user-images.githubusercontent.com/88277713/157423923-0f82e214-58fe-43a5-8129-690db1a1e5a2.png)
 
 The term "grammar" can also describe the linguistic behavior of groups of speakers and writers, rather than individuals. Differences in scales are important to this sense of the word: for example, the term "English grammar" could refer to the whole of English grammar (that is, to the grammars of all the speakers of the language), in which case the term encompasses a great deal of variation.[3] At a smaller scale, it may refer only to what is shared among the grammars of all or most English speakers (such as subject–verb–object word order in simple declarative sentences). At the smallest scale, this sense of "grammar" can describe the conventions of just one relatively well-defined form of English (such as standard English for a region).  
 [For more information](https://en.wikipedia.org/wiki/Grammar)
 
-### 2. Punctuation Corrector
+### 1.2. Punctuation Corrector
 ![Resim2](https://user-images.githubusercontent.com/88277713/157428502-31515562-6aac-4f67-8c9f-ca8246ff22ff.png)
 
 Punctuation (or sometimes interpunction) is the use of spacing, conventional signs (called punctuation marks), and certain typographical devices as aids to the understanding and correct reading of written text, whether read silently or aloud.
 
-### 3. Spell Checker
+### 1.3. Spell Checker
 ![Resim3](https://user-images.githubusercontent.com/88277713/157428683-283ae4d9-274e-42fb-88f2-48ee73976496.png)
 
 # 2. Style Former-ENG Project
