@@ -2,16 +2,16 @@
 
 CONTENT
 
-[0. What is NLP ?](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#what-is-nlp-)
+[0. What is NLP ?](https://github.com/Dodger22/NLP-Natural-Language-Processing-main/README.md#what-is-nlp-)
 
-[1. Grammar-Spell-Punctation-Corrector-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#1-grammar-corrector)
-- [1. Grammar Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#1-grammar-corrector)
-- [2. Punctuation Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#2-punctuation-corrector)
-- [3. Spell Checker](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#3-spell-checker)
+[1. Grammar-Spell-Punctation-Corrector-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-main/README.md#1-grammar-corrector)
+- [1. Grammar Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/main/README.md#1-grammar-corrector)
+- [2. Punctuation Corrector](https://github.com/Dodger22/NLP-Natural-Language-Processing-/main/README.md#2-punctuation-corrector)
+- [3. Spell Checker](https://github.com/Dodger22/NLP-Natural-Language-Processing-main/README.md#3-spell-checker)
 
 [2. Style Former-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#2-style-former-eng-project)
 
-[3. Spell Checker 2 TR-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/edit/main/README.md#3-spell-checker-2-tr-eng-project)
+[3. Spell Checker 2 TR-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/main/README.md#3-spell-checker-2-tr-eng-project)
 
 # What is NLP ?
 
