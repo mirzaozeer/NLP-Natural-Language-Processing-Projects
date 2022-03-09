@@ -51,6 +51,7 @@ The good thing about the  model is that it offers options and there is a chance 
 
 
 [Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/StyleFormer-ENG.ipynb)
+
 ![Resim6](https://user-images.githubusercontent.com/88277713/157430058-688feb4a-78ff-4c16-8ce8-39b27e46d3bc.png)
 
 
