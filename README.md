@@ -39,7 +39,7 @@ Punctuation (or sometimes interpunction) is the use of spacing, conventional sig
 
 # 2. Style Former-ENG Project
 [Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/SpellingChecker2TR-ENG.ipynb)
-![Resim3](https://user-images.githubusercontent.com/88277713/157429750-8be8de42-ef1e-44ed-b12e-2b3f2f83790a.png)
+![Resim1](https://user-images.githubusercontent.com/88277713/157613386-27f70154-885f-419f-b156-8e1f42598f65.png)
 ![Resim5](https://user-images.githubusercontent.com/88277713/157429769-7c292096-6ea1-4824-9fe6-51f949dbf781.png)
 
 # 3. Spell Checker 2 TR-ENG Project
