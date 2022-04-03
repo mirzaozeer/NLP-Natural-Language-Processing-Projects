@@ -13,6 +13,12 @@ CONTENT
 
 [3. Spell Checker 2 TR-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#3-spell-checker-2-tr-eng-project)
 
+[4. Multi Class Text Classification /BERT]()
+
+[5. Text Classification Summarization]()
+
+
+
 # What is NLP ?
 
 Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
@@ -53,4 +59,41 @@ The good thing about the  model is that it offers options and there is a chance 
 [Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/SpellingChecker2TR-ENG.ipynb)
 
 ![Resim6](https://user-images.githubusercontent.com/88277713/157430058-688feb4a-78ff-4c16-8ce8-39b27e46d3bc.png)
+
+# 4. Multi Class Text Classification /BERT
+[Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/MultiClassTextClassificationENG-BERT%20.ipynb)
+
+![bert-chart](https://user-images.githubusercontent.com/88277713/161452903-c56bd7e1-0e8a-4822-9c16-9012031a66cd.png)
+
+In this study, I used the BERT algorithm produced by Google to detect sentiment analysis in the text. BERT uses a masked language model, trying to understand the relationships between each word used in the texts. In this way, I present to you a multi-classified sentiment analysis project that predicts whether each sentence in a text is positive or negative.
+
+<img width="852" alt="Ekran Alıntısı" src="https://user-images.githubusercontent.com/88277713/161452934-0a167c24-52fd-469e-8ca6-e1965c65f3e2.PNG">
+
+In the example above, the sentences of a text(it is a letter), which is the input, were parsed and the sentiment analysis of each sentence was made, and then the general sentiment analysis of the text was estimated.
+
+# 5. Text Classification Summarization()
+
+[Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/TextSummarizationENG%26TR.ipynb)
+
+<img width="837" alt="wewe" src="https://user-images.githubusercontent.com/88277713/161452986-7a13b0ac-4d84-4947-a3ca-e72685b323b5.PNG">
+
+In this study,  trying to summarize a long text.
+
+
+1-  Remove auxiliary words from the input text.
+2– Remove punctuation marks,.
+3– Label words according to their frequency.
+4– Find the distribution ratios of the words.
+5– Separate the text according to its sentences and do the same for sentences.
+6– Determine the length of our summary text
+7- Finally, create our summary text according to their frequency.
+
+Example of labeled words;
+
+<img width="835" alt="ooo" src="https://user-images.githubusercontent.com/88277713/161453005-ab516f1f-e941-4227-bc5e-746ff1f2a96d.PNG">
+
+
+
+
+
 
