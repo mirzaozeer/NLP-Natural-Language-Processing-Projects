@@ -13,7 +13,7 @@ CONTENT
 
 [3. Spell Checker 2 TR-ENG Project](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#3-spell-checker-2-tr-eng-project)
 
-[4. Multi Class Text Classification /BERT]()
+[4. Multi Class Text Classification /BERT](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#5-text-classification-summarization)
 
 [5. Text Classification Summarization]()
 
