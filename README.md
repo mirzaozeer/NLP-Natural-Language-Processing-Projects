@@ -15,7 +15,7 @@ CONTENT
 
 [4. Multi Class Text Classification /BERT](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#4-multi-class-text-classification-bert)
 
-[5. Text Classification Summarization](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#5-text-classification-summarization)
+[5. Text Summarization](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#5-text-classification-summarization)
 
 
 
@@ -71,7 +71,7 @@ In this study, I used the BERT algorithm produced by Google to detect sentiment 
 
 In the example above, the sentences of a text(it is a letter), which is the input, were parsed and the sentiment analysis of each sentence was made, and then the general sentiment analysis of the text was estimated.
 
-# 5. Text Classification Summarization()
+# 5. Text Summarization
 
 [Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/TextSummarizationENG%26TR.ipynb)
 
