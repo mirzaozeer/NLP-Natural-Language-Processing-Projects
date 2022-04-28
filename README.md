@@ -15,7 +15,7 @@ CONTENT
 
 [4. Multi Class Text Classification /BERT](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#4-multi-class-text-classification-bert)
 
-[5. Text Summarization](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#5-text-classification-summarization)
+[5. Text Summarization](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/README.md#5-text-summarization)
 
 
 
