@@ -73,19 +73,25 @@ In the example above, the sentences of a text(it is a letter), which is the inpu
 
 # 5. Text Summarization
 
-[Project Code](https://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/TextSummarizationENG%26TR.ipynb)
+[Project Code](hhttps://github.com/Dodger22/NLP-Natural-Language-Processing-/blob/main/TextSummarizationENG%26TR.ipynb)
 
 <img width="837" alt="wewe" src="https://user-images.githubusercontent.com/88277713/161452986-7a13b0ac-4d84-4947-a3ca-e72685b323b5.PNG">
 
 In this study,  trying to summarize a long text.
 
 
-1-  Remove auxiliary words from the input text.
+1- Remove auxiliary words from the input text.
+
 2– Remove punctuation marks,.
+
 3– Label words according to their frequency.
+
 4– Find the distribution ratios of the words.
+
 5– Separate the text according to its sentences and do the same for sentences.
+
 6– Determine the length of our summary text
+
 7- Finally, create our summary text according to their frequency.
 
 Example of labeled words;
